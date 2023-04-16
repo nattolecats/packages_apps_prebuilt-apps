@@ -6,8 +6,7 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_PACKAGES += \
     OPFiles \
     OPGallery \
-    LMC \
-    ViperFX
+    LMC
 
 # Permissions
 PRODUCT_COPY_FILES += \
