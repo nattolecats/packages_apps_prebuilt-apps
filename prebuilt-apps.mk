@@ -4,4 +4,6 @@ PRODUCT_SOONG_NAMESPACES += \
 
 # Prebuilt Apps
 PRODUCT_PACKAGES += \
-    OPGallery
+    OPFiles \
+    OPGallery \
+    Viper4Android
